@@ -1,4 +1,6 @@
 # W3F Grant Milestone Delivery <!-- omit in toc -->
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMicassa93%2FGrant-Milestone-Delivery.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMicassa93%2FGrant-Milestone-Delivery?ref=badge_shield)
+
 
 > **:loudspeaker:** This repository is only for submitting finished milestones for the [Web3 Foundation Grants Program](https://github.com/w3f/Grants-Program).
 
@@ -74,3 +76,6 @@ We have Riot channels for real-time discussions on Web3 and Polkadot. Join the c
 ## :information_source: License <!-- omit in toc -->
 
 [Apache License 2.0](LICENSE) © Web3 Foundation
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMicassa93%2FGrant-Milestone-Delivery.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMicassa93%2FGrant-Milestone-Delivery?ref=badge_large)
