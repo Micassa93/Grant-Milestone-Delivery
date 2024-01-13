@@ -1,6 +1,7 @@
 # Evaluation
 
 > Don't remove any of the mandatory parts presented in bold letters or as headlines!
+> When evaluating the last milestone of a grant, check if the finished grant refers to an [RFP](https://grants.web3.foundation/docs/rfps) and move the corresponding RFP to status `Closed`.
 > Lines starting with `>`, such as this one, can be removed.
 
 - **Status:** In Progress/Accepted/Rejected
